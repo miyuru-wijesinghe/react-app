@@ -7,7 +7,8 @@ export default function Header() {
 		
         <div>
           	<nav class="navigation">
-			  <h1>Title</h1>
+			  <h1>React Web Application</h1>
+              <h2>Users</h2>
 		</nav>
 		
         </div>

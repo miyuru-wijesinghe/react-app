@@ -17,7 +17,14 @@ nav.navigation{
 	text-transform:capitalize;
 	letter-spacing: 3px;
 	font-weight: 900;
-	align-items: center;
+	text-align: center;
+}
 
-  
+.navigation h2{
+	width: 80%;
+	margin: auto;
+	color: #7f7e85;
+	font-size: 20px;
+	letter-spacing: 3px;
+	font-weight: 900;
 }
