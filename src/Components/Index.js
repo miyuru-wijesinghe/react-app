@@ -32,7 +32,7 @@ const Index = () => {
             <div className="card_inner">
               <img src={item.avatar} alt="avatar" />
               <div className="userName">
-                {item.first_name} {item.last_name}
+                {item.first_name} 
               </div>
               <div className="userUrl">{item.email}</div>
               <button className="btn" onClick={() => openUserDetailPopup(item)}>
